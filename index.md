@@ -1,6 +1,6 @@
 ![pic](https://chaedri.github.io/images/profile2.jpg)
 ## About
-I'm a first year PhD student from Vermont. With a background in geology and GIS, I'm excited about creating tools and models that help stakeholders help understand the impacts of climate change. In particular, I'm interested in flooding, surface runoff, sea level rise and land use.
+I am a first year PhD student working with Dr. Helena Mitasova and Dr. Ross Meentemeyer. With a background in geology and GIS, I'm excited about creating tools and models that help stakeholders understand the impacts of climate change. In particular, I'm interested in models related to flooding, surface runoff, sea level rise and land use.
 
 ### Follow me on: 
 
