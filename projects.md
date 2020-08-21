@@ -10,4 +10,4 @@ While at the Cold Regions Research and Engineering Laboratory (CRREL) in Hanover
 
 ## Channel Sounding in the Ultrahigh Frequency in Mountainous and Urban Environments
 At CRREL's Radio Science group, we also study the bistatic scattering properties of buildings and mountains to better understand the influence of the environment on the the radio channel (the many paths the signal travels between the transmitter and reciever). We developed a channel sounding system that could characterize the channel at frequencies commonly used for radio communication in the ultrahigh frequencies. A channel sounder consists of two stations - a reciever and a transmitter - that are deployed to a particular environment of interest. The transmitter sends a known pseudorandom noise sequence out into the environment. The reciever cross-correlates the recieved signal with the original pseudorandom noise sequence to see how the channel has distorted the signal. For more information, check out my publications page.
-![pic](https://chaedri.github.io/images/channelsounding.jpg)
+![pic](https://chaedri.github.io/images/channelsounding.JPG)
