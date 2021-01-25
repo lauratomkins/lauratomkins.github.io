@@ -1,4 +1,4 @@
-<img src="./imgs/headshot_cropped.JPG" style="float:left;margin:0 20px 10px 0" width="300">
+<img src="./imgs/headshot_cropped.jpg" style="float:left;margin:0 20px 10px 0" width="300">
 
 ## About
 
