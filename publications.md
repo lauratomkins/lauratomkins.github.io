@@ -1,6 +1,6 @@
 # Papers
 
-**Tomkins, L. M.**, D. B. Mechem, S. R. Rhodes, S. E. Yuter, 2021: Regional flow conditions associated with stratocumulus cloud-eroding boundaries over the southeast Atlantic. _Monthly Weather Review_, conditionally accepted.
+**Tomkins, L. M.**, D. B. Mechem, S. E. Yuter, and S. R. Rhodes, 2021: [Regional flow conditions associated with stratocumulus cloud-eroding boundaries over the southeast Atlantic](./files/Tomkinsetal_MWR_2021_lowclouds_seatlantic.pdf). _Mon. Wea. Rev._, DOI: 10.1175/MWR-D-20-0250.1.
 
 Yoshizumi, A., Coffer, M., Collins, E., Gaines, M., Gao, X., Jones, K., McGregor, I., McQuillan, K., Perin, V., **Tomkins, L.** & Worm, T. (2020). [A Review of Geospatial Content in IEEE Visualization Publications](https://arxiv.org/pdf/2009.03390.pdf). _IEEE Visualizations_. URL: arXiv:2009.03390.
 
